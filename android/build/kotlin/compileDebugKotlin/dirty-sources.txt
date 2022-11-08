@@ -1,0 +1,1 @@
+/Users/graziano/Documents/GitHub/device_screen_recorder-0.0.3/android/src/main/kotlin/ru/kodazm/device_screen_recorder/DeviceScreenRecorderPlugin.kt

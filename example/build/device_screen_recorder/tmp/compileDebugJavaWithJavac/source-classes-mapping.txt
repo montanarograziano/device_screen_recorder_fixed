@@ -1,0 +1,2 @@
+ru/kodazm/device_screen_recorder/BuildConfig.java
+ ru.kodazm.device_screen_recorder.BuildConfig
